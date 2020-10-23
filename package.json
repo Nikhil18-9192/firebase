@@ -1,0 +1,26 @@
+{
+  "name": "store-practice",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt-ts",
+    "build": "nuxt-ts build",
+    "start": "nuxt-ts start",
+    "generate": "nuxt-ts generate"
+  },
+  "dependencies": {
+    "@nuxt/typescript-runtime": "^1.0.0",
+    "@nuxtjs/axios": "^5.12.2",
+    "axios": "^0.20.0",
+    "cookieparser": "^0.1.0",
+    "firebase": "^7.24.0",
+    "js-cookie": "^2.2.1",
+    "jwt-decode": "^3.0.0",
+    "nuxt": "^2.14.0",
+    "vue2-google-maps": "^0.10.7"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.14.0",
+    "@nuxt/typescript-build": "^2.0.2"
+  }
+}
